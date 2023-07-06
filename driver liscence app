@@ -1,0 +1,11 @@
+#driver liscence app
+driver={1:"first name=John",2:"last name=Raj","age":45}
+print(driver[1])
+print(driver[2])
+ssn=123122000
+print(ssn)
+print(type(ssn))
+height=int(175.5)
+print(height)
+weight=int(85.6)
+print(weight)
